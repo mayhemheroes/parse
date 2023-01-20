@@ -1,0 +1,4 @@
+project: parse
+target: parse-parse-number-fuzz
+cmds:
+  - cmd: ./number-fuzz.libfuzzer
